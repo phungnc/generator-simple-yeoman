@@ -1,0 +1,17 @@
+{
+  "name": "generator-simple-yeoman",
+  "version": "1.0.0",
+  "description": "simple yeoman generator demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "phungnc@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.18.7"
+  }
+}
